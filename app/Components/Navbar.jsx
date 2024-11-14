@@ -16,6 +16,9 @@ const Navbar = () => {
                         <li className="nav-item">
                             <Link className="nav-link active" aria-current="page" href="/">Home</Link>
                         </li>
+                        <li className="nav-item">
+                            <Link className="nav-link" aria-current="page" href="https://github.com/adarshpand3y/sip-calculator" target='_blank'>Github Repo</Link>
+                        </li>
                     </ul>
                 </div>
             </div>
